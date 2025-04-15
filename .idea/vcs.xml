@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Fake_news_detection" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/fake_news" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/fakenewsdetection" vcs="Git" />
   </component>
 </project>
